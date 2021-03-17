@@ -1,0 +1,61 @@
+html, body{
+    background-color: #009af3;
+}
+h1{
+    text-align: center;
+
+}
+ul{
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    list-style: none;
+    padding: 10px;
+}
+ul li a{
+  text-decoration: none;
+    padding: 0 150px;
+    font-size: 20px;
+    transition: all .6s ease-in-out;
+}
+ul li a:hover{
+    color: crimson;
+    transform: scale(1.1);
+    transform: rotateX(30deg);
+}
+form{
+    border-color: black;
+    border-style: solid;
+    padding: 6px;
+    text-align: center;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+label{
+    color :white;
+    font-size: 20px;
+}
+input{
+    border-radius: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.email{
+    margin-left: 42px;
+}
+.password{
+    margin-left: 14px;
+}
+.submit{
+    background-color: crimson;
+    color: white;
+}
+.sign-in{
+    background-color: #7eff22;
+    color: white;
+}

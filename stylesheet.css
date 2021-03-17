@@ -48,9 +48,7 @@ input{
 .email{
     margin-left: 42px;
 }
-.password{
-    margin-left: 14px;
-}
+
 .submit{
     background-color: crimson;
     color: white;
@@ -58,4 +56,10 @@ input{
 .sign-in{
     background-color: #7eff22;
     color: white;
+}
+.password-label{
+    margin-left: 15px;
+}
+footer{
+
 }
